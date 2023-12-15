@@ -1,4 +1,4 @@
-# Threads Login Clone Project
+# Navbar Animation
 
 ## Overview
 
