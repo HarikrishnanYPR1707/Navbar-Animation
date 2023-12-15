@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="absolute text-white border bottom-5 left-1/2 -translate-x-1/2">
+    <div className="absolute bottom-5 left-1/2 -translate-x-1/2 border text-white">
       Navbar
     </div>
   );
