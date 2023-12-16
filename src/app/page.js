@@ -8,7 +8,7 @@ export default function Home() {
     <div className=" h-screen w-full">
       <Navbar activeNav={activeNav} setActiveNav={setActiveNav} />
       <button
-        className="absolute bottom-5 left-1/2 h-[40px] w-[100px] -translate-x-1/2 rounded-xl bg-teal-400 font-black text-white"
+        className="absolute bottom-5 left-1/2 h-[40px] w-[100px] -translate-x-1/2 rounded-xl bg-teal-600 font-extrabold text-white"
         onClick={() => {
           setActiveNav(!activeNav);
           console.log(activeNav);
