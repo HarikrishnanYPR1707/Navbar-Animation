@@ -25,7 +25,7 @@ const Navbar = ({ activeNav, setActiveNav }) => {
         duration: 0.8,
       }}
     >
-      sdf
+      Navbar content
     </motion.div>
   );
 };
