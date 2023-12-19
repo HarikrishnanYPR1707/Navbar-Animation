@@ -14,10 +14,11 @@ const Navbar = ({ activeNav, setActiveNav }) => {
               width: "90vw",
               height: 60,
               translateX: "-50%",
-              // opacity: 1,
+              opacity: 1,
             }
           : {
               width: 100,
+              opacity: 0,
             }
       }
       transition={{
