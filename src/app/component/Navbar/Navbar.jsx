@@ -23,7 +23,7 @@ const Navbar = ({ activeNav, setActiveNav }) => {
       }
       transition={{
         ease: [0.83, 0, 0.17, 1],
-        duration: 0.8,
+        duration: 1,
       }}
     >
       Navbar content
