@@ -22,7 +22,7 @@ const Navbar = ({ activeNav, setActiveNav }) => {
             }
       }
       transition={{
-        ease: [0.83, 0, 0.17, 1],
+        ease: "backInOut",
         duration: 1,
       }}
     >
